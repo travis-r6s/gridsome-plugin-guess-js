@@ -5,6 +5,10 @@
   "main": "gridsome.server.js",
   "author": "Travis Reynolds <travis@cirruscreative.co.uk>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thetre97/gridsome-plugin-guess-js.git"
+  },
   "dependencies": {
     "core-js": "2",
     "guess-webpack": "^0.4.15"
