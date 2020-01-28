@@ -10,7 +10,7 @@
     "url": "https://github.com/thetre97/gridsome-plugin-guess-js.git"
   },
   "dependencies": {
-    "core-js": "2",
+    "core-js": "3",
     "guess-webpack": "^0.4.15"
   },
   "devDependencies": {
